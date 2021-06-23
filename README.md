@@ -6,3 +6,4 @@ The data is pulled from the Spotify API utilizing the Spotipy python library. Sp
 
 <img src="/imgs/Spotify_Logo_RGB_Green.png" alt="Spotify Logo" width="500" height="150">
 
+<img src="/imgs/Top_100_Songs_2019" alt="Top 100 Songs 2019" width="500" height="1500">
